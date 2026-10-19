@@ -28,6 +28,6 @@
     "dot-properties": "^1.1.2",
     "eol": "^0.10.0",
     "typescript": "^7.0.2",
-    "vitest": "^5.0.4"
+    "vitest": "^5.0.5"
   }
 }
