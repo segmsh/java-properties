@@ -24,7 +24,7 @@
     "@segmsh/core": "^0.2.0"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "dot-properties": "^1.1.2",
     "eol": "^0.10.0",
     "typescript": "^7.0.2",
